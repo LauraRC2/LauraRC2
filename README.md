@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Laura
 
-**LauraRC2/LauraRC2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently studying Humanities in UPF
 - 🌱 I’m currently learning:
     - European Tradition Literature
@@ -13,3 +11,5 @@
 - 📫 How to reach me: laura.radua01@estudiant.upf.edu 
 - 😄 Pronouns: She/Her
 -->
+  <!--
+**LauraRC2/LauraRC2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
